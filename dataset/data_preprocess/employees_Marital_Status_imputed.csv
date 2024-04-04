@@ -1,0 +1,998 @@
+Title,Gender,Religion_ID,Marital_Status,Designation_ID,Status,Reporting_emp_1,Reporting_emp_2,Employment_Category,Employment_Type,Religion,Designation,Year_of_Birth
+Mr,Male,1,Married,24,Active,\N,\N,Staff,Permanant,Buddhist,Driver,1965
+Mr,Male,1,Married,24,Active,\N,\N,Staff,Permanant,Buddhist,Driver,1973
+Mr,Male,1,Married,23,Inactive,\N,\N,Staff,Permanant,Buddhist,Account Clerk,1974
+Ms,Female,4,Married,40,Inactive,\N,\N,Staff,Permanant,Catholic,Purchasing Officer,1974
+Mr,Male,1,Married,7,Active,\N,\N,Staff,Permanant,Buddhist,Store Keeper,1980
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Permanant,Buddhist,Technical Officer,1962
+Mr,Male,1,Married,22,Active,945,\N,Staff,Permanant,Buddhist,Technical Officer,1969
+Mr,Male,1,Married,126,Active,\N,\N,Staff,Permanant,Buddhist,Project Coordinator ,1981
+Ms,Female,1,Single,23,Active,\N,\N,Staff,Permanant,Buddhist,Account Clerk,1974
+Mr,Male,1,Married,41,Inactive,\N,\N,Staff,Permanant,Buddhist,Electrician,1967
+Mr,Male,1,Married,42,Inactive,\N,\N,Management,Permanant,Buddhist,Transport Officer,1976
+Mr,Male,3,Single,7,Active,\N,\N,Staff,Permanant,Hindu,Store Keeper,1986
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Permanant,Buddhist,Driver,1975
+Mr,Male,1,Married,43,Inactive,\N,\N,Staff,Permanant,Buddhist,Operator - JCB,1984
+Mr,Male,1,Married,44,Inactive,\N,\N,Staff,Permanant,Buddhist,Driver - Boom,1973
+Ms,Female,1,Single,45,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Construction Manager,1963
+Mr,Male,1,Married,46,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Operator - Crane,1981
+Mr,Male,1,Married,35,Active,\N,\N,Staff,Contarct Basis,Buddhist,Operator-Excavator,1990
+Mr,Male,1,Married,7,Active,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1961
+Mr,Male,5,Single,48,Active,624,\N,Staff,Contarct Basis,Muslim,Draughtsman,1982
+Mr,Male,1,Married,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1965
+Mr,Male,1,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1991
+Mr,Male,1,Married,24,Active,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1978
+Mr,Male,5,Married,22,Active,624,\N,Staff,Contarct Basis,Muslim,Technical Officer,1982
+Mr,Male,1,Married,24,Active,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1994
+Mr,Male,1,Married,8,Active,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1989
+Mr,Male,1,Married,49,Active,\N,\N,Staff,Contarct Basis,Buddhist,Junior Technical Officer,1986
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1989
+Mr,Male,1,Married,24,Active,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1994
+Mr,Male,1,Married,37,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver-Tractor,1960
+Mr,Male,5,Married,22,Active,2709,\N,Staff,Contarct Basis,Muslim,Technical Officer,1989
+Mr,Male,5,Married,6,Active,393,\N,Staff,Contarct Basis,Muslim,Project Manager,1965
+Mr,Male,1,Married,46,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Operator - Crane,1993
+Mr,Male,1,Single,67,Active,\N,\N,Staff,Contarct Basis,Buddhist,Operator - Loader,1993
+Mr,Male,3,Married,27,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Supervisor,1989
+Mr,Male,3,Single,27,Active,\N,\N,Staff,Contarct Basis,Hindu,Supervisor,1988
+Mr,Male,1,Married,7,Active,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1972
+Mr,Male,1,Single,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1995
+Mr,Male,1,Married,43,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Operator - JCB,1992
+Mr,Male,1,Single,36,Active,673,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1987
+Mr,Male,1,Married,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,'0000'
+Mr,Male,3,Single,8,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1990
+Mr,Male,1,Single,8,Active,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1990
+Mr,Male,1,Single,52,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Moter Mechanic,1995
+Mr,Male,1,Married,24,Active,\N,\N,Staff,Contarct Basis,Buddhist,Driver,'0000'
+Mr,Male,1,Single,35,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Operator-Excavator,1997
+Mr,Male,3,Single,54,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Lab Technician,1985
+Mr,Male,4,Married,36,Inactive,\N,\N,Staff,Contarct Basis,Catholic,Engineer Assistant,1982
+Mr,Male,3,Married,27,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Supervisor,1986
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1988
+Mr,Male,1,Married,24,Active,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1995
+Mr,Male,1,Single,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1997
+Ms,Female,1,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1981
+Mr,Male,1,Married,57,Active,\N,\N,Staff,Contarct Basis,Buddhist,Driver - Truck Mixture,1987
+Mr,Male,1,Single,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1988
+Mr,Male,1,Married,38,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Office Assistant,1965
+Mr,Male,1,Married,58,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Sociologist,1962
+Ms,Female,1,Married,48,Active,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1980
+Mr,Male,1,Married,62,Active,\N,\N,Labour,Contarct Basis,Buddhist,S/Skill,1947
+Mr,Male,1,Married,63,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Junior Quantity Surveyor,1993
+Mr,Male,1,Married,64,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1972
+Mr,Male,1,Single,22,Active,1834,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1988
+Mr,Male,3,Married,27,Active,\N,\N,Staff,Contarct Basis,Hindu,Supervisor,1981
+Mr,Male,1,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1991
+Mr,Male,1,Single,59,Active,\N,\N,Staff,Contarct Basis,Buddhist,Autocad Draughtsman ,1991
+Mr,Male,1,Single,113,Active,\N,\N,Staff,Contarct Basis,Buddhist,Operation Executive,1981
+Miss,Female,1,Single,59,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Autocad Draughtsman ,1989
+Mr,Male,1,Married,6,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Project Manager,1966
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1955
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1966
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976
+Mr,Male,1,Single,22,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Technical Officer,1985
+Mr,Male,1,Married,7,Active,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1961
+Mr,Male,3,Single,49,Inactive,1333,\N,Staff,Contarct Basis,Hindu,Junior Technical Officer,'0000'
+Mr,Male,1,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1967
+Mr,Male,1,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1955
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976
+Mr,Male,3,Married,31,Active,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,'0000'
+Mr,Male,1,Single,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1992
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1959
+Mr,Male,5,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Technical Officer,1985
+Ms,Female,1,Married,70,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Data Entry Operator,1992
+Mr,Male,3,Single,69,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Site Supervisor,1989
+Ms,Female,1,Single,59,Active,\N,\N,Staff,Contarct Basis,Buddhist,Autocad Draughtsman ,1984
+Mr,Male,1,Married,22,Inactive,2709,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1986
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,'0000'
+Mr,Male,1,Married,124,Active,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1992
+Mr,Male,3,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1995
+Mr,Male,1,Married,29,Active,\N,\N,Labour,Contarct Basis,Buddhist,Cook,1957
+Mr,Male,1,Married,22,Active,2709,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1988
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1991
+Mr,Male,1,Married,37,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver-Tractor,1959
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,'0000'
+Ms,Female,3,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1993
+Mr,Male,3,Single,8,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1991
+Mr,Male,1,Single,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1994
+Ms,Female,1,Single,65,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Design Engineer,1994
+Mr,Male,1,Single,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1992
+Mr,Male,1,Single,72,Active,\N,\N,Staff,Contarct Basis,Buddhist,IT Executive,1990
+Ms,Female,1,Single,8,Active,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1993
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,'0000'
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,'0000'
+Ms,Female,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1994
+Mr,Male,3,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1997
+Mr,Male,5,Single,69,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Site Supervisor,1997
+Mr,Male,1,Single,107,Active,1333,\N,Staff,Contarct Basis,Buddhist,Social Environment Officer,1991
+Mr,Male,5,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Supervisor,1994
+Mr,Male,1,Single,43,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Operator - JCB,1993
+Ms,Female,1,Single,88,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Trainee QS,1995
+Miss,Female,1,Single,111,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Management Trainee,1994
+Mr,Male,1,Single,89,Active,\N,\N,Staff,Contarct Basis,Buddhist,Planning Engineer,1990
+Mr,Male,1,Married,97,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Foreman,1978
+Mr,Male,1,Single,101,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Excavator Operator,2001
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1973
+Mr,Female,1,Single,175,Active,\N,\N,Staff,Contarct Basis,Buddhist,Store Supervisor,1984
+Mr,Male,1,Single,17,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Account Executive,1996
+Mr,Male,1,Single,78,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant Accountant,1992
+Mr,Male,1,Married,193,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Manager Finance & Operations,'0000'
+Mr,Male,1,Married,127,Active,\N,\N,Management,Contarct Basis,Buddhist,Chief Operating Officer,1972
+Mr,Male,1,Married,110,Active,\N,\N,Management,Contarct Basis,Buddhist,Chief Executive Officer,'0000'
+Mr,Male,1,Single,79,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Helper - Lorry,1995
+Ms,Female,1,Married,84,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,HR Executive,1992
+Mr,Male,1,Single,88,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Trainee QS,1998
+Mr,Male,1,Single,88,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Trainee QS,1997
+Mr,Male,1,Single,113,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Operation Executive,1995
+Mr,Male,1,Married,45,Inactive,569,\N,Management,Contarct Basis,Buddhist,Construction Manager,1966
+Mr,Male,4,Single,98,Inactive,\N,\N,Staff,Contarct Basis,Catholic,Store Executive,1985
+Ms,Female,1,Married,84,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,HR Executive,1990
+Mr,Male,1,Single,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1992
+Ms,Female,1,Married,104,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Accountant,1983
+Ms,Female,1,Single,143,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,HR Assistant,1999
+Mr,Male,1,Married,22,Active,624,\N,Staff,Permanant,Buddhist,Technical Officer,1965
+Mr,Male,1,Married,7,Active,\N,\N,Staff,Permanant,Buddhist,Store Keeper,1981
+Mr,Male,1,Married,36,Active,2631,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1988
+Mr,Male,1,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1990
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,'0000'
+Mr,Male,1,Married,36,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1961
+Mr,Male,5,Single,22,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Technical Officer,'0000'
+Mr,Male,1,Single,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1995
+Mr,Male,1,Single,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1991
+Mr,Male,1,Single,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1992
+Mr,Male,1,Married,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1993
+Mr,Male,1,Single,22,Active,1964,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1991
+Ms,Female,1,Single,157,Active,\N,\N,Staff,Contarct Basis,Buddhist,Business Analyst,1988
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1961
+Mr,Female,1,Single,48,Inactive,1538,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1996
+Mr,Male,3,Single,22,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Technical Officer,1993
+Mr,Male,1,Married,33,Inactive,1333,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1981
+Mr,Male,1,Married,6,Inactive,605,\N,Staff,Contarct Basis,Buddhist,Project Manager,1984
+Mr,Male,1,Married,7,Active,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1996
+Ms,Female,1,Single,89,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Planning Engineer,1993
+Mr,Male,3,Single,22,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Technical Officer,1994
+Ms,Female,1,Married,84,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,HR Executive,1986
+Mr,Male,3,Married,9,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Assistance QS,1995
+Mr,Male,1,Married,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1971
+Mr,Male,1,Married,7,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1946
+Mr,Male,1,Married,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,'0000'
+Mr,Male,3,Single,8,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1993
+Mr,Male,5,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Site Engineer,1994
+Mr,Male,1,Married,64,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1984
+Mr,Male,1,Single,27,Inactive,1333,\N,Staff,Contarct Basis,Buddhist,Supervisor,1991
+Mr,Male,1,Single,27,Active,1964,\N,Staff,Contarct Basis,Buddhist,Supervisor,1993
+Mr,Male,1,Single,8,Inactive,1538,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1987
+Mr,Male,1,Single,36,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1990
+Mr,Male,1,Single,108,Active,624,\N,Staff,Contarct Basis,Buddhist,QAQC Engineer,1992
+Mr,Male,1,Married,6,Inactive,625,\N,Staff,Contarct Basis,Buddhist,Project Manager,1965
+Ms,Female,1,Single,48,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1993
+Mr,Male,1,Single,22,Active,1964,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1990
+Mr,Male,1,Married,6,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Project Manager,1981
+Mr,Male,1,Single,48,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1993
+Mr,Male,1,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1989
+Mr,Male,1,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1992
+Mr,Male,1,Married,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1990
+Mr,Male,1,Married,64,Active,\N,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1971
+Mr,Male,3,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Supervisor,1996
+Mr,Male,3,Single,36,Active,\N,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1994
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1989
+Mr,Male,3,Single,22,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Technical Officer,1989
+Mr,Male,1,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1966
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1987
+Mr,Male,3,Married,7,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Store Keeper,1952
+Mr,Male,3,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Technical Officer,1985
+Mr,Male,1,Single,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1996
+Mr,Male,3,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Site Engineer,1987
+Mr,Male,3,Married,36,Active,\N,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1987
+Mr,Male,4,Married,6,Inactive,649,\N,Staff,Contarct Basis,Catholic,Project Manager,1971
+Mr,Male,1,Married,64,Active,\N,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1968
+Mr,Male,3,Married,6,Inactive,651,\N,Staff,Contarct Basis,Hindu,Project Manager,1969
+Mr,Male,3,Married,33,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Site Engineer,1987
+Mr,Male,1,Married,7,Active,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1976
+Mr,Male,1,Married,64,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1969
+Mr,Male,1,Single,54,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Lab Technician,1981
+Mr,Male,1,Married,35,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Operator-Excavator,1992
+Mr,Male,1,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1988
+Mr,Male,3,Married,8,Active,\N,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1981
+Mr,Male,1,Married,102,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Tractor Driver,1978
+Mr,Male,1,Single,39,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer-Trainee,1993
+Mr,Male,1,Single,7,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1993
+Mr,Male,1,Married,8,Active,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1988
+Mr,Male,1,Single,7,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1994
+Mr,Male,1,Married,80,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver - cab,1985
+Mr,Male,1,Married,6,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Project Manager,1983
+Mr,Male,1,Single,36,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1986
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1987
+Mr,Male,3,Single,6,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Project Manager,1991
+Mr,Male,5,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Driver,1976
+Mr,Male,5,Married,73,Active,673,\N,Staff,Contarct Basis,Muslim,Resident Engineer,1978
+Mr,Male,1,Married,48,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,'0000'
+Mr,Male,1,Married,37,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver-Tractor,1980
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1976
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1955
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1991
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Permanant,Buddhist,Technical Officer,1978
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1954
+Mr,Male,1,Married,99,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Resident Site Engineer,1959
+Mr,Male,1,Married,7,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1974
+Mr,Male,1,Single,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1991
+Mr,Male,1,Married,6,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Project Manager,1987
+Mr,Male,1,Married,99,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Resident Site Engineer,1955
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1965
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981
+Mr,Male,1,Married,122,Active,\N,\N,Labour,Contarct Basis,Buddhist,Security,1958
+Mr,Male,1,Married,22,Active,1964,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1986
+Mr,Male,1,Single,122,Active,\N,\N,Labour,Contarct Basis,Buddhist,Security,1991
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1992
+Mr,Male,1,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Security,1961
+Mr,Male,1,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Security,1981
+Miss,Male,1,Single,48,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1994
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1972
+Mr,Male,5,Single,65,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Design Engineer,1994
+Mr,Male,1,Single,86,Active,\N,\N,Staff,Contarct Basis,Buddhist,QA/QC Engineer,1993
+Mr,Male,1,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1992
+Mr,Male,3,Married,6,Inactive,716,\N,Staff,Contarct Basis,Hindu,Project Manager,1962
+Miss,Female,1,Single,125,Active,\N,\N,Staff,Contarct Basis,Buddhist,Data Colector,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958
+Miss,Female,1,Single,125,Active,\N,\N,Staff,Contarct Basis,Buddhist,Data Colector,1996
+Miss,Female,1,Single,125,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Data Colector,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1967
+Miss,Female,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1970
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1978
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1991
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1964
+Mr,Male,5,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Supervisor,1993
+Mr,Male,1,Single,51,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Helper - JCB,2000
+Mr,Male,1,Married,80,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver - cab,1985
+Mr,Male,3,Married,33,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Site Engineer,1987
+Mr,Male,3,Single,36,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1991
+Mr,Male,1,Married,8,Active,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1987
+Mr,Male,1,Married,64,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1976
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1978
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1974
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1984
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1984
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1975
+Mr,Male,1,Single,7,Active,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1994
+Mr,Male,1,Married,135,Active,\N,\N,Labour,Contarct Basis,Buddhist,Wacher,1951
+Mr,Male,1,Married,37,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Driver-Tractor,1958
+Mr,Male,1,Married,43,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1978
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999
+Mr,Male,1,Married,102,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Tractor Driver,1963
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,3,Married,123,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Carpenter,'0000'
+Mr,Male,1,Married,123,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Carpenter,'0000'
+Ms,Female,1,Married,29,Active,\N,\N,Labour,Contarct Basis,Buddhist,Cook,'0000'
+Mr,Male,1,Married,30,Active,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1967
+Mr,Male,1,Single,38,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Office Assistant,1993
+Mr,Male,1,Married,134,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Caretaker,1952
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1964
+Mr,Male,3,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,'0000'
+Mr,Male,1,Single,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1997
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1961
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999
+Mr,Male,4,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1990
+Mr,Male,4,Single,31,Active,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,2000
+Mr,Male,3,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,2000
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1954
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,'0000'
+Mr,Male,4,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1961
+Mr,Male,3,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1996
+Mr,Male,4,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,2000
+Mr,Male,4,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1966
+Mr,Male,3,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1995
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1983
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1980
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1992
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999
+Mr,Male,3,Single,122,Active,\N,\N,Labour,Contarct Basis,Hindu,Security,1985
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1978
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1960
+Mr,Male,4,Married,31,Active,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1966
+Mr,Male,4,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Skilled Labor,1992
+Mr,Male,1,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1975
+Mr,Male,3,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Security,1981
+Mr,Male,3,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1998
+Mr,Male,3,Single,30,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1998
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1972
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1975
+Mr,Male,4,Single,31,Active,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1996
+Mr,Male,3,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,'0000'
+Mr,Male,3,Married,31,Active,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1981
+Mr,Male,3,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Security,'0000'
+Mr,Male,3,Single,122,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Security,'0000'
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1970
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997
+Mr,Male,4,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,'0000'
+Mr,Male,3,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,'0000'
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,'0000'
+Mr,Male,1,Single,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,'0000'
+Mr,Male,4,Married,122,Active,\N,\N,Labour,Contarct Basis,Catholic,Security,1973
+Mr,Male,3,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1982
+Mr,Male,4,Married,38,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Office Assistant,1987
+Mr,Male,3,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,'0000'
+Mr,Male,3,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Security,1949
+Mr,Male,3,Single,122,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Security,1995
+Mr,Male,1,Single,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1966
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1966
+Mr,Male,1,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,'0000'
+Mr,Male,3,Single,122,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Security,'0000'
+Mr,Male,4,Single,122,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Security,'0000'
+Mr,Male,3,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Security,'0000'
+Mr,Male,3,Single,122,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Security,'0000'
+Mr,Male,3,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,'0000'
+Mr,Male,3,Single,38,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Office Assistant,'0000'
+Ms,Female,1,Married,134,Active,\N,\N,Labour,Contarct Basis,Buddhist,Caretaker,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1989
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1992
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1984
+Mr,Male,1,Married,29,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Cook,1979
+Mr,Male,1,Married,135,Active,\N,\N,Labour,Contarct Basis,Buddhist,Wacher,1963
+Mr,Male,1,Married,135,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Wacher,1960
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1977
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1980
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1963
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1980
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1982
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1983
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1989
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1975
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1985
+Mr,Male,1,Married,134,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Caretaker,'0000'
+Mr,Male,1,Married,30,Active,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1984
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1984
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1982
+Mr,Male,1,Married,7,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1970
+Mr,Male,5,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Site Engineer,1993
+Mr,Male,5,Married,22,Active,\N,\N,Staff,Contarct Basis,Muslim,Technical Officer,1977
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1977
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1975
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Single,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1996
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1977
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1960
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Single,70,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Data Entry Operator,1997
+Ms,Female,1,Single,2,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Secretary,1993
+Mr,Male,1,Single,48,Active,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1994
+Mr,Male,1,Single,88,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Trainee QS,1997
+Mr,Male,1,Single,48,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,'0000'
+Mr,Male,1,Married,6,Active,945,\N,Staff,Contarct Basis,Buddhist,Project Manager,1964
+Mr,Male,1,Married,107,Active,\N,\N,Staff,Contarct Basis,Buddhist,Social Environment Officer,1962
+Mr,Male,1,Single,8,Active,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1988
+Mr,Male,1,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1988
+Mr,Male,1,Single,7,Active,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1987
+Mr,Male,1,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1995
+Mr,Male,1,Married,120,Inactive,\N,\N,Management,Contarct Basis,Buddhist,HR Manager,1956
+Mr,Male,1,Married,29,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Cook,'0000'
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,'0000'
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1984
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,53,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Pipe Fitter,'0000'
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1985
+Mr,Male,5,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Muslim,Unskilled Labor,2003
+Mr,Male,1,Single,128,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Construction Supervisor,1996
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1985
+Mr,Male,1,Married,32,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,OPE-Compresure Breaker,1959
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1992
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1996
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1985
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1980
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1971
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1988
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1977
+Mr,Male,1,Married,37,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver-Tractor,1974
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1988
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1974
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1957
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968
+Mr,Male,3,Single,30,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1994
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1960
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1982
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1976
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2000
+Mr,Male,3,Single,122,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Security,1992
+Mr,Male,3,Single,122,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Security,2000
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1964
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1973
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1979
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969
+Mr,Male,1,Single,80,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver - cab,1998
+Ms,Female,1,Single,125,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Data Colector,1993
+Mr,Male,1,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,'0000'
+Mr,Male,1,Single,35,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Operator-Excavator,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1987
+Mr,Male,1,Married,55,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Fitter,1955
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,'0000'
+Mr,Male,1,Married,27,Active,1333,\N,Staff,Contarct Basis,Buddhist,Supervisor,1968
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1983
+Mr,Male,1,Married,116,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Assistant General Manager,1976
+Mr,Male,1,Married,97,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Foreman,1991
+Mr,Male,1,Married,107,Active,\N,\N,Staff,Contarct Basis,Buddhist,Social Environment Officer,1961
+Mr,Male,1,Married,68,Active,\N,\N,Staff,Contarct Basis,Buddhist,Assistant Store Keeper,1957
+Mr,Male,1,Single,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1999
+Mr,Male,3,Single,108,Inactive,\N,\N,Staff,Contarct Basis,Hindu,QAQC Engineer,'0000'
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1978
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1981
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Single,129,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Stores Helper,1995
+Mr,Male,1,Married,104,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Accountant,1980
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993
+Mr,Male,1,Married,134,Active,\N,\N,Labour,Contarct Basis,Buddhist,Caretaker,'0000'
+Mr,Male,3,Married,71,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Land Supervisor,1980
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1953
+Mr,Male,5,Married,132,Inactive,1109,\N,Staff,Contarct Basis,Muslim,Senior Design Engineer,1973
+Mr,Male,1,Married,133,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Senior Purchasing Officer,1985
+Mr,Male,1,Single,38,Active,\N,\N,Labour,Contarct Basis,Buddhist,Office Assistant,1994
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986
+Mr,Male,1,Married,122,Active,\N,\N,Labour,Contarct Basis,Buddhist,Security,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,4,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1968
+Mr,Male,1,Married,64,Active,\N,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1976
+Mr,Male,4,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1979
+Mr,Male,4,Single,1,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Skilled Labor,1979
+Mr,Male,3,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Skilled Labor,1994
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1978
+Mr,Male,1,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1966
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1983
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1969
+Mr,Male,3,Married,33,Inactive,1158,\N,Staff,Contarct Basis,Hindu,Site Engineer,1982
+Mr,Male,1,Single,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1992
+Mr,Male,4,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Catholic,Supervisor,1995
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1995
+Mr,Male,1,Single,108,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,QAQC Engineer,1991
+Mr,Male,3,Married,6,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Project Manager,1953
+Mr,Male,3,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1989
+Mr,Male,1,Married,64,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Safety Officer,1975
+Mr,Male,1,Married,62,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,S/Skill,1957
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1980
+Ms,Female,1,Married,138,Active,\N,\N,Staff,Contarct Basis,Buddhist,Receptionist,1994
+Ms,Female,1,Married,17,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Account Executive,1989
+Mr,Male,4,Married,104,Inactive,\N,\N,Management,Contarct Basis,Catholic,Accountant,1985
+Mr,Male,3,Single,140,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Surveyor Trainee,1994
+Mr,Male,1,Single,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1992
+Mr,Male,1,Single,93,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Transport Assistant,1998
+Mr,Male,3,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1959
+Mr,Male,3,Married,36,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1979
+Mr,Male,4,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1993
+Mr,Male,4,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Skilled Labor,1977
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1992
+Mr,Male,4,Single,84,Inactive,\N,\N,Staff,Contarct Basis,Catholic,HR Executive,1991
+Mr,Male,1,Single,22,Inactive,2709,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1992
+Mr,Male,1,Married,7,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1980
+Ms,Female,1,Single,177,Active,\N,\N,Staff,Contarct Basis,Buddhist,Junior HR Executive,1999
+Mr,Male,1,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1993
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1975
+Mr,Male,1,Single,70,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Data Entry Operator,1998
+Mr,Male,1,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1982
+Mr,Male,1,Married,144,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Tractor Driver cum Mechanic,1967
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,'0000'
+Mr,Male,3,Single,146,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Assistant Site Engineer,2005
+Mr,Male,1,Married,7,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1988
+Mr,Male,1,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1994
+Mr,Male,1,Married,48,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1984
+Mr,Male,1,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1997
+Ms,Female,1,Single,147,Inactive,1538,\N,Staff,Contarct Basis,Buddhist,Trainee Technical Officer,1993
+Mr,Male,1,Married,176,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Logistic & Operations Supervisor,1983
+Mr,Male,1,Single,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1990
+Mr,Male,1,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1998
+Mr,Male,1,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1997
+Mr,Male,1,Single,40,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Purchasing Officer,1996
+Mr,Male,5,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Technical Officer,1985
+Mr,Male,1,Married,80,Active,\N,\N,Staff,Contarct Basis,Buddhist,Driver - cab,1968
+Mr,Male,1,Married,43,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Operator - JCB,1991
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1971
+Mr,Male,1,Single,22,Inactive,1333,\N,Staff,Contarct Basis,Buddhist,Technical Officer,2000
+Mr,Male,1,Single,48,Active,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1995
+Mr,Male,1,Single,95,Active,\N,\N,Staff,Contarct Basis,Buddhist,Welder,1998
+Mr,Male,1,Single,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1999
+Ms,Female,1,Single,17,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Account Executive,1993
+Ms,Female,1,Married,149,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,HR Consultant-Payroll,1970
+Mr,Male,1,Single,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1995
+Mr,Male,1,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1987
+Mr,Male,5,Married,36,Active,945,\N,Staff,Contarct Basis,Muslim,Engineer Assistant,1983
+Ms,Female,1,Married,120,Inactive,\N,\N,Management,Contarct Basis,Buddhist,HR Manager,1976
+Mr,Male,3,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Site Engineer,1995
+Mr,Male,1,Single,89,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Planning Engineer,1993
+Mr,Male,1,Single,22,Inactive,1538,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1991
+Mr,Male,1,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1985
+Mr,Male,1,Married,17,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Account Executive,1986
+Mr,Male,3,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Technical Officer,1989
+Mr,Male,1,Married,6,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Project Manager,1964
+Mr,Male,1,Single,153,Active,\N,\N,Labour,Contarct Basis,Buddhist,Store Labour,1994
+Mr,Male,1,Single,17,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Account Executive,1994
+Mr,Male,3,Single,36,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1994
+Mr,Male,1,Married,66,Inactive,\N,\N,Management,Contarct Basis,Buddhist,HR & Admin Officer,1975
+Mr,Male,1,Married,78,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Assistant Accountant,1990
+Mr,Male,3,Single,7,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Store Keeper,1996
+Mr,Male,1,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Security,1980
+Mr,Male,1,Single,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1997
+Mr,Male,1,Married,134,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Caretaker,1952
+Mr,Male,1,Married,48,Active,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1978
+Mr,Male,1,Married,108,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,QAQC Engineer,'0000'
+Mr,Male,1,Married,22,Active,2631,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1987
+Mr,Male,1,Married,104,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Accountant,1989
+Mr,Male,1,Single,9,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistance QS,1995
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1964
+Mr,Male,1,Married,162,Inactive,1739,\N,Management,Contarct Basis,Buddhist,Chief Project Officer,1970
+Mr,Male,1,Married,163,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Manager Transport and Logistic,1975
+Mr,Female,1,Single,161,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,QS Contract,1992
+Mr,Male,1,Married,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1969
+Mr,Male,1,Married,27,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Supervisor,1963
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981
+Mr,Male,3,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1954
+Mr,Male,3,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,1992
+Mr,Male,1,Married,43,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1980
+Mr,Male,5,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Quantity Surveyor,1993
+Mr,Male,3,Married,122,Active,\N,\N,Labour,Contarct Basis,Hindu,Security,'0000'
+Mr,Male,3,Married,122,Active,\N,\N,Labour,Contarct Basis,Hindu,Security,'0000'
+Mr,Male,1,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Security,1978
+Mr,Male,1,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Security,1979
+Mr,Male,1,Married,24,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Driver,1968
+Mr,Male,1,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Security,1992
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1975
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1959
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976
+Mr,Male,1,Married,29,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Cook,'0000'
+Mr,Male,3,Single,33,Inactive,1834,\N,Staff,Contarct Basis,Hindu,Site Engineer,1994
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1983
+Mr,Male,1,Married,4,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1958
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1987
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1978
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1977
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1969
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1962
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1963
+Mr,Male,1,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1998
+Ms,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1998
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971
+Ms,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1978
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1962
+Mr,Male,1,Married,80,Active,\N,\N,Labour,Contarct Basis,Buddhist,Driver - cab,1965
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1965
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1961
+Ms,Female,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1962
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1967
+Miss,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1983
+Mr,Male,1,Married,90,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant manager - HR,1990
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1974
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1959
+Mr,Male,1,Single,33,Active,1964,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1994
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1969
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Married,24,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Driver,1988
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,'0000'
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Ms,Female,1,Single,125,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Data Colector,1998
+Mr,Male,1,Married,167,Inactive,\N,\N,Management,Contarct Basis,Buddhist,IT Consultant,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1954
+Mr,Male,1,Single,139,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Surveyor Helper,1995
+Ms,Female,1,Single,112,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Data Entry Executive,1998
+Mr,Male,1,Married,49,Active,545,\N,Staff,Contarct Basis,Buddhist,Junior Technical Officer,1991
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1975
+Mr,Male,5,Single,89,Active,\N,\N,Staff,Contarct Basis,Muslim,Planning Engineer,1994
+Mr,Male,1,Married,7,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1979
+Mr,Male,1,Married,6,Active,1964,\N,Staff,Contarct Basis,Buddhist,Project Manager,1986
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1974
+Mr,Male,1,Married,7,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1969
+Ms,Male,1,Single,158,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant QS,1994
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1978
+Mr,Male,1,Single,49,Inactive,545,\N,Staff,Contarct Basis,Buddhist,Junior Technical Officer,1996
+Mr,Male,3,Single,36,Inactive,\N,\N,Staff,Contarct Basis,Hindu,Engineer Assistant,1994
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,43,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1994
+Mr,Male,5,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Muslim,Mason,1980
+Ms,Female,1,Single,125,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Data Colector,'0000'
+Ms,Female,1,Single,125,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Data Colector,'0000'
+Mr,Male,1,Married,78,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant Accountant,1987
+Mr,Male,1,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1993
+Mr,Male,1,Single,36,Inactive,545,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1991
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971
+Mr,Male,1,Single,54,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Lab Technician,1991
+Mr,Male,1,Single,36,Active,\N,\N,Staff,Contarct Basis,Buddhist,Engineer Assistant,1995
+Ms,Female,1,Married,25,Active,\N,\N,Labour,Contarct Basis,Buddhist,Document Controller,'0000'
+Mr,Male,3,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1997
+Mr,Male,1,Married,6,Active,2017,\N,Staff,Contarct Basis,Buddhist,Project Manager,1967
+Mr,Male,1,Single,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1996
+Mr,Male,1,Married,22,Active,673,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1990
+Mr,Male,5,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Muslim,Unskilled Labor,1964
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1984
+Ms,Female,1,Single,170,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Planning Engineer cum QAQC,1996
+Mr,Male,3,Married,29,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Cook,1985
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1996
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1990
+Mr,Male,1,Married,168,Active,\N,\N,Staff,Contarct Basis,Buddhist,Planning Executive,1982
+Mr,Male,1,Single,158,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant QS,1995
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1963
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1968
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1991
+Ms,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1991
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1975
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1974
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1966
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Permanant,Buddhist,Unskilled Labor,1978
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1955
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1975
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1967
+Mr,Male,1,Married,22,Inactive,2064,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1994
+Mr,Male,1,Married,122,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Security,1978
+Mr,Male,1,Single,129,Active,\N,\N,Labour,Contarct Basis,Buddhist,Stores Helper,1997
+Ms,Female,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1988
+Ms,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1955
+Mr,Male,1,Married,24,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Driver,1976
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003
+Mr,Male,1,Married,24,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Driver,1986
+Mr,Male,1,Married,24,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Driver,1977
+Mr,Male,1,Single,56,Active,\N,\N,Labour,Contarct Basis,Buddhist,Helper,2002
+Mr,Male,3,Single,31,Active,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,2002
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972
+Mr,Male,1,Married,22,Active,673,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1989
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994
+Mr,Male,3,Single,31,Active,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,2002
+Mr,Male,1,Single,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1966
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1985
+Mr,Male,1,Married,78,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant Accountant,1985
+Mr,Male,1,Single,83,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Mechanical Engineer,1993
+Mr,Male,1,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1994
+Mr,Male,1,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1986
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1991
+Mr,Male,1,Married,6,Inactive,2709,\N,Staff,Contarct Basis,Buddhist,Project Manager,1982
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969
+Mr,Male,1,Married,43,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1991
+Mr,Male,1,Single,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,2000
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997
+Mr,Male,1,Married,33,Inactive,2124,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1950
+Mr,Male,1,Married,24,Active,\N,\N,Labour,Contarct Basis,Buddhist,Driver,1987
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1958
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1973
+Mr,Male,5,Single,89,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Planning Engineer,1994
+Mr,Male,1,Single,22,Active,2631,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1993
+Mr,Male,1,Single,173,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Trainee Safety Officer,1995
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1977
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1974
+Mr,Male,1,Married,41,Active,\N,\N,Labour,Contarct Basis,Buddhist,Electrician,1968
+Mr,Male,1,Single,41,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Electrician,1979
+Mr,Male,3,Single,31,Active,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1996
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,'0000'
+Mr,Male,4,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Skilled Labor,'0000'
+Mr,Male,3,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,30,Active,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1970
+Mr,Male,1,Married,43,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1994
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995
+Mr,Male,1,Single,7,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,2000
+Mr,Male,1,Single,158,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant QS,1995
+Ms,Female,1,Married,17,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Account Executive,1989
+Mr,Male,1,Single,158,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant QS,1996
+Mr,Male,1,Single,195,Active,\N,\N,Labour,Contarct Basis,Buddhist,Data Coordinator,1999
+Mr,Male,1,Married,129,Active,\N,\N,Labour,Contarct Basis,Buddhist,Stores Helper,1966
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Single,17,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Account Executive,1998
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1961
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1969
+Mr,Male,1,Single,22,Active,2709,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1996
+Mr,Male,1,Single,22,Active,2631,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1996
+Ms,Female,1,Single,178,Active,\N,\N,Staff,Contarct Basis,Buddhist,Trainee Purchasing Officer,1996
+Ms,Female,1,Single,178,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Trainee Purchasing Officer,1997
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1961
+Ms,Female,3,Single,45,Active,\N,\N,Management,Contarct Basis,Hindu,Construction Manager,1963
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1982
+Mr,Male,1,Married,152,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Manager Contract,1987
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1974
+Mr,Male,1,Married,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1981
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1974
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1964
+Mr,Male,1,Married,180,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant Manager Procurement,1983
+Mr,Male,1,Single,33,Active,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1995
+Mr,Male,1,Married,139,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Surveyor Helper,1958
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972
+Mr,Male,1,Married,29,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Cook,'0000'
+Mr,Male,1,Single,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1983
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002
+Mr,Male,1,Married,4,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1981
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1997
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1975
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1974
+Mr,Male,4,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Catholic,Unskilled Labor,1964
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1951
+Ms,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996
+Mr,Male,1,Married,134,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Caretaker,1953
+Mr,Male,1,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1959
+Ms,Female,1,Single,70,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Data Entry Operator,2001
+Mr,Male,1,Married,181,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Trainee Engineer,1996
+Mr,Male,3,Married,31,Active,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1982
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1990
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1960
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1952
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1991
+Mr,Male,1,Single,139,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Surveyor Helper,1997
+Mr,Male,1,Married,24,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Driver,1992
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1990
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1992
+Mr,Male,1,Married,53,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Pipe Fitter,2000
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996
+Ms,Female,1,Single,48,Active,\N,\N,Staff,Contarct Basis,Buddhist,Draughtsman,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1973
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994
+Mr,Male,1,Single,83,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Mechanical Engineer,1995
+Mr,Male,1,Married,58,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Sociologist,1962
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1987
+Ms,Female,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1982
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1973
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998
+Mr,Male,1,Single,8,Active,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1976
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995
+Ms,Female,1,Single,17,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Account Executive,1993
+Mr,Male,1,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1996
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998
+Mr,Male,1,Married,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1985
+Mr,Male,1,Single,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,2001
+Mr,Male,1,Single,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,2001
+Mr,Male,1,Married,182,Active,\N,\N,Labour,Contarct Basis,Buddhist,Labour,1991
+Mr,Female,3,Single,184,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Lab Helper,'0000'
+Mr,Male,1,Single,169,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Bobcat Operator,'0000'
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,22,Active,673,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1970
+Mr,Male,1,Married,22,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Technical Officer,1989
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2006
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971
+Mr,Male,1,Married,43,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,2000
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1982
+Mr,Male,1,Married,7,Active,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,1964
+Mr,Male,1,Married,1,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1993
+Mr,Male,1,Single,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1991
+Mr,Male,3,Single,30,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Semi Skilled Labor,2000
+Mr,Male,1,Single,181,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Trainee Engineer,1999
+Mr,Male,1,Single,27,Active,1964,\N,Staff,Contarct Basis,Buddhist,Supervisor,1998
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1966
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1989
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970
+Mr,Male,1,Single,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1996
+Mr,Male,5,Single,31,Active,\N,\N,Labour,Contarct Basis,Muslim,Unskilled Labor,1996
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1965
+Mr,Male,1,Married,186,Active,\N,\N,Staff,Contarct Basis,Buddhist,Surveyor,1979
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1969
+Mr,Male,1,Married,95,Active,\N,\N,Labour,Contarct Basis,Buddhist,Welder,1974
+Mr,Male,1,Single,55,Active,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1996
+Mr,Male,1,Single,33,Active,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1993
+Mr,Male,1,Married,187,Active,\N,\N,Staff,Contarct Basis,Buddhist,Material Engineer,1983
+Mr,Male,1,Single,22,Active,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1996
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995
+Mr,Male,1,Married,122,Active,\N,\N,Labour,Contarct Basis,Buddhist,Security,1970
+Ms,Female,1,Single,125,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Data Colector,1998
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976
+Mr,Male,1,Married,55,Active,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1961
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1991
+Mr,Male,1,Single,70,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Data Entry Operator,1999
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1988
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Single,139,Active,\N,\N,Labour,Contarct Basis,Buddhist,Surveyor Helper,1999
+Mr,Male,1,Married,189,Active,\N,\N,Labour,Contarct Basis,Buddhist,Lab Assistant,1990
+Mr,Male,1,Single,189,Active,\N,\N,Labour,Contarct Basis,Buddhist,Lab Assistant,1989
+Mr,Male,1,Single,56,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Helper,2002
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1971
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1963
+Mr,Male,1,Married,22,Active,1964,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1986
+Mr,Male,1,Single,80,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Driver - cab,1996
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1962
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1973
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1958
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1975
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1990
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1985
+Mr,Male,1,Married,122,Active,\N,\N,Labour,Contarct Basis,Buddhist,Security,1955
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994
+Mr,Male,1,Married,26,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mechanic,1990
+Mr,Male,1,Single,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1999
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970
+Ms,Female,1,Married,195,Active,\N,\N,Labour,Contarct Basis,Buddhist,Data Coordinator,1998
+Ms,Female,1,Single,195,Active,\N,\N,Labour,Contarct Basis,Buddhist,Data Coordinator,1996
+Ms,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1964
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1991
+Mr,Male,3,Single,124,Inactive,\N,\N,Labour,Contarct Basis,Hindu,Mason,2001
+Mr,Male,3,Single,31,Active,\N,\N,Labour,Contarct Basis,Hindu,Unskilled Labor,1994
+Mr,Male,1,Single,124,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1997
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1973
+Mr,Male,1,Married,123,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Carpenter,1973
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1981
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1977
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002
+Mr,Male,1,Married,4,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1973
+Mr,Male,1,Married,190,Active,\N,\N,Management,Contarct Basis,Buddhist,Head of QS - Post Contract,1980
+Mr,Male,1,Single,158,Active,\N,\N,Staff,Contarct Basis,Buddhist,Assistant QS,1996
+Mr,Male,1,Married,33,Active,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1968
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2000
+Mr,Male,1,Single,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1995
+Ms,Male,1,Single,43,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Operator - JCB,1995
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2001
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1960
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1980
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1997
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1976
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1970
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1993
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1951
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1979
+Mr,Male,1,Married,29,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Cook,1963
+Mr,Male,1,Married,163,Active,\N,\N,Management,Contarct Basis,Buddhist,Manager Transport and Logistic,1970
+Mr,Male,1,Single,33,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1994
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1980
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1989
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1968
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1956
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1966
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2003
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1994
+Mr,Male,1,Single,56,Active,\N,\N,Labour,Contarct Basis,Buddhist,Helper,1996
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1988
+Mr,Male,1,Single,53,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Pipe Fitter,1999
+Mr,Male,1,Single,69,Active,1964,\N,Staff,Contarct Basis,Buddhist,Site Supervisor,2001
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1980
+Mr,Male,5,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Muslim,Unskilled Labor,1982
+Mr,Male,1,Married,55,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Fitter,1972
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1990
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1972
+Ms,Female,1,Married,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1983
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1998
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1986
+Mr,Male,1,Single,191,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Logistic Assistant,1994
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1999
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1996
+Ms,Female,1,Single,30,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Semi Skilled Labor,1998
+Mr,Male,1,Single,22,Active,2709,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1991
+Mr,Male,1,Married,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1995
+Mr,Male,1,Married,192,Active,\N,\N,Staff,Contarct Basis,Buddhist,Assistant Planning Engineer,1995
+Mr,Male,1,Single,7,Active,\N,\N,Staff,Contarct Basis,Buddhist,Store Keeper,2000
+Mr,Male,1,Single,33,Active,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1995
+Mr,Male,5,Married,6,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Project Manager,1964
+Mr,Male,1,Married,4,Active,\N,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1975
+Mr,Male,1,Married,4,Active,\N,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1990
+Mr,Male,1,Married,4,Active,\N,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1974
+Mr,Male,1,Married,4,Active,\N,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1987
+Mr,Male,1,Married,4,Active,\N,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1995
+Mr,Male,1,Married,4,Active,\N,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1987
+Mr,Male,1,Married,4,Active,\N,\N,Labour,Contarct Basis,Buddhist,Bar Bender,1972
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Single,31,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,2002
+Mr,Male,5,Married,22,Inactive,\N,\N,Staff,Contarct Basis,Muslim,Technical Officer,1997
+Mr,Male,1,Single,8,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1997
+Mr,Male,3,Single,8,Active,\N,\N,Staff,Contarct Basis,Hindu,Quantity Surveyor,1997
+Mr,Male,1,Single,22,Active,\N,\N,Staff,Contarct Basis,Buddhist,Technical Officer,1994
+Mr,Male,1,Married,4,Active,\N,\N,Labour,Permanant,Buddhist,Bar Bender,1987
+Mr,Male,1,Married,124,Active,\N,\N,Labour,Contarct Basis,Buddhist,Mason,1968
+Mr,Male,1,Married,56,Inactive,\N,\N,Labour,Contarct Basis,Buddhist,Helper,1986
+Mr,Male,1,Married,90,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant manager - HR,1987
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,1965
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,78,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Assistant Accountant,1989
+Mr,Male,1,Married,1,Active,\N,\N,Labour,Contarct Basis,Buddhist,Skilled Labor,1991
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Single,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Mr,Male,1,Married,24,Active,\N,\N,Labour,Contarct Basis,Buddhist,Driver,'0000'
+Mr,Male,1,Married,104,Inactive,\N,\N,Management,Contarct Basis,Buddhist,Accountant,1965
+Mr,Male,1,Married,54,Active,673,\N,Labour,Contarct Basis,Buddhist,Lab Technician,1986
+Ms,Female,1,Single,143,Active,\N,\N,Staff,Contarct Basis,Buddhist,HR Assistant,1996
+Mr,Male,1,Married,31,Active,\N,\N,Labour,Contarct Basis,Buddhist,Unskilled Labor,'0000'
+Ms,Female,1,Married,33,Active,\N,\N,Staff,Contarct Basis,Buddhist,Site Engineer,1989
+Mr,Male,1,Married,38,Active,\N,\N,Staff,Contarct Basis,Buddhist,Office Assistant,1965
+Mr,Male,1,Married,8,Active,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1988
+Mr,Male,1,Married,78,Active,\N,\N,Staff,Contarct Basis,Buddhist,Assistant Accountant,1984
+Mr,Male,1,Married,198,Active,\N,\N,Staff,Contarct Basis,Buddhist,Projects Officer,1981
+Mr,Male,1,Single,111,Active,\N,\N,Staff,Contarct Basis,Buddhist,Management Trainee,1996
+Ms,Female,1,Single,17,Inactive,\N,\N,Staff,Contarct Basis,Buddhist,Account Executive,1993
+Mr,Male,1,Single,8,Active,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1994
+Mr,Male,1,Single,201,Active,\N,\N,Staff,Contarct Basis,Buddhist,Software Developer,1997
+Mr,Male,1,Single,8,Active,\N,\N,Staff,Contarct Basis,Buddhist,Quantity Surveyor,1990
+Mr,Male,1,Married,104,Active,\N,\N,Management,Contarct Basis,Buddhist,Accountant,1979
