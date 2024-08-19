@@ -119,6 +119,6 @@ For any inquiries, please get in touch with the project members:
 -[Ravindu Weerakoon](ravindu.21@cse.mrt.ac.lk)
 -[Lakindu Kariyawasam](lakindu.21@cse.mrt.ac.lk)
 -[Eshan Madurange](eshan.21@cse.mrt.ac.lk)
--[Nethum Rathnayake(nethum.21@cse.mrt.ac.lk)
+-[Nethum Rathnayake](nethum.21@cse.mrt.ac.lk)
 -[Danuka Lashan](Danuka.21@cse.mrt.ac.lk)
 
